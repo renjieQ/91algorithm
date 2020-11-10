@@ -40,4 +40,4 @@ def demo(code, start, end):
     print(table)
 
 if __name__ == "__main__":
-    demo('377240', '2019-09-27', '2020-10-19')
+    demo('377240', '2019-09-27', '2020-11-10')
